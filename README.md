@@ -12,9 +12,11 @@ We are asking that you write a simple worker pattern type project using a modern
 
 This challenge is not meant to be a production ready version, but it is meant to show thought process, concepts, and problem solving skills.  You are free to use any 3rd party libraries or code to accomplish the task as long as it is LICENSED accordingly.
 
+We recommend that you spend only 1-2 hours (and certainly not more than 3) on the challenge, we are not looking for a finished/polished solution, but rather an example of how you approach a problem, and a starter for a conversation about a technical topic and the development process.
+
 ## Requirements / Concepts
 
-Some requirements / concepts we would like to see (either in code or at least outlined in the README):
+Some concepts we would like to see (either in code or at least outlined in the README):
 
 - Build instructions (any 3rd party requirements and how to generally get them setup on either linux or mac) -- docker-compose or something similar is suggested
 - Usage instructions (i.e. samples to actually show how it works)
@@ -27,9 +29,8 @@ Some requirements / concepts we would like to see (either in code or at least ou
 ## Completion Format
 
 - [ ] To do this challenge, please Fork this repository to your own public github repository.
-- [ ] Build all the things, and have fun! 
+- [ ] Build all the things, and have fun!
 - [ ] Check your code into the fork when you are complete.
 - [ ] :shipit:  Send the recruiter at ForgeRock the link to your repository.  
 
 We will review what you did during one of your interview sessions!
-
